@@ -4,4 +4,4 @@ It is a very simple recorder android app. One can record a voice, it will be str
 
 ----
 
-![Recorder ss](https://github.com/divyanshutw/Recorder-app/blob/master/Recorder%20app%20ss.jpeg)
+![Recorder ss](https://github.com/divyanshutw/Recorder-app/blob/master/Recorder%20app%20ss.jpg)
